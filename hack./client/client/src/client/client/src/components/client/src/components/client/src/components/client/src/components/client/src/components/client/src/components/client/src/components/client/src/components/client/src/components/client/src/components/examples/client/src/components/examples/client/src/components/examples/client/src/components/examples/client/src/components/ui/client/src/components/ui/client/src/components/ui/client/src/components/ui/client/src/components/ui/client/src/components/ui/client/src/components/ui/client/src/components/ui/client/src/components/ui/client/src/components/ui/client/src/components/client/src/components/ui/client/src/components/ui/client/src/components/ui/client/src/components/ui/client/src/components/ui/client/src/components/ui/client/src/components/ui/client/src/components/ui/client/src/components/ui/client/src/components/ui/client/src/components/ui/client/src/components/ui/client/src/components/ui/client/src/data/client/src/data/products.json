@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Basmati Rice",
+    "category": "Groceries",
+    "price": 125.50,
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=300&h=200&fit=crop",
+    "recommended": true
+  },
+  {
+    "id": "2",
+    "name": "Organic Wheat Flour",
+    "category": "Groceries",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=300&h=200&fit=crop",
+    "recommended": true
+  },
+  {
+    "id": "3",
+    "name": "Fresh Vegetables Bundle",
+    "category": "Groceries",
+    "price": 45.00,
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=300&h=200&fit=crop",
+    "recommended": false
+  },
+  {
+    "id": "4",
+    "name": "Stainless Steel Cooking Pot",
+    "category": "Kitchen Supplies",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=300&h=200&fit=crop",
+    "recommended": false
+  },
+  {
+    "id": "5",
+    "name": "Paper Towel Rolls (12 pack)",
+    "category": "Cleaning Supplies",
+    "price": 156.75,
+    "image": "https://images.unsplash.com/photo-1584736286279-4ca72ad7f463?w=300&h=200&fit=crop",
+    "recommended": false
+  },
+  {
+    "id": "6",
+    "name": "Disposable Food Containers",
+    "category": "Restaurant Supplies",
+    "price": 234.50,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=300&h=200&fit=crop",
+    "recommended": false
+  },
+  {
+    "id": "7",
+    "name": "Premium Tea Collection",
+    "category": "Beverages",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=300&h=200&fit=crop",
+    "recommended": true
+  },
+  {
+    "id": "8",
+    "name": "Snack Variety Pack",
+    "category": "Snacks",
+    "price": 89.25,
+    "image": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=300&h=200&fit=crop",
+    "recommended": false
+  }
+]
