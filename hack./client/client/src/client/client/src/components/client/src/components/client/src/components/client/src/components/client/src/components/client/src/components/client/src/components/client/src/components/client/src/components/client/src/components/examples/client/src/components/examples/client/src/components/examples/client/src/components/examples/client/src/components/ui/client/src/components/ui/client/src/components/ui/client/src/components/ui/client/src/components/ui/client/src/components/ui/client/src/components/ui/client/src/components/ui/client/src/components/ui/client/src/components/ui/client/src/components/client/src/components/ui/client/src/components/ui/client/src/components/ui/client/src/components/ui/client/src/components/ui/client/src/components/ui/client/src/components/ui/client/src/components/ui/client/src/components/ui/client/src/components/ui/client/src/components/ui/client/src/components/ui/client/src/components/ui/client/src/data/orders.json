@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ORD-001",
+    "retailer": "Raj Kirana Store",
+    "date": "2024-01-15",
+    "total": 450.75,
+    "status": "Delivered",
+    "items": [
+      {
+        "id": "1",
+        "name": "Premium Basmati Rice",
+        "quantity": 2,
+        "price": 125.50
+      },
+      {
+        "id": "2",
+        "name": "Organic Wheat Flour",
+        "quantity": 1,
+        "price": 89.99
+      }
+    ]
+  },
+  {
+    "id": "ORD-002",
+    "retailer": "Raj Kirana Store",
+    "date": "2024-01-10",
+    "total": 299.99,
+    "status": "Delivered",
+    "items": [
+      {
+        "id": "4",
+        "name": "Stainless Steel Cooking Pot",
+        "quantity": 1,
+        "price": 299.99
+      }
+    ]
+  },
+  {
+    "id": "ORD-003",
+    "retailer": "Raj Kirana Store",
+    "date": "2024-01-05",
+    "total": 534.24,
+    "status": "Delivered",
+    "items": [
+      {
+        "id": "5",
+        "name": "Paper Towel Rolls (12 pack)",
+        "quantity": 1,
+        "price": 156.75
+      },
+      {
+        "id": "7",
+        "name": "Premium Tea Collection",
+        "quantity": 1,
+        "price": 199.99
+      },
+      {
+        "id": "3",
+        "name": "Fresh Vegetables Bundle",
+        "quantity": 4,
+        "price": 45.00
+      }
+    ]
+  }
+]
